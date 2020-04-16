@@ -56,7 +56,7 @@
 * Lanzan una excepción: add(e), remove(), element()
 * Devuelven valor especial: offer(e), poll(), peek()
 
-#### Deque<E>
+#### [Deque<E>](./deque.md)
 * Puede trabajar como cola, pila o cola doble
 ----
 
