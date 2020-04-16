@@ -1,7 +1,7 @@
 # Deque
 Se añadió en JDK 6.0. Como las implementaciones de cola, estas se diferencian en las características *bounded/unbounded, blocking/non-blocking,* y *thread-safe/non-thread-safe*.
 
-La interfaz **[Deque](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html)** hereda de java.util.Queue y la extiende con métodos para agregar elementos en la parte del principio del *Deque*, elminar la parte del final, y ver el elemento del final del *Deque* sin eliminarlo.
+La interfaz **Deque** ([Javadoc](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html)) hereda de java.util.Queue y la extiende con métodos para agregar elementos en la parte del principio del *Deque*, elminar la parte del final, y ver el elemento del final del *Deque* sin eliminarlo.
 
 Dado que hereda de Queue, se han renombrado los métodos de la siguiente forma:
 
